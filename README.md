@@ -1,3 +1,25 @@
+<h1>Shayna Backend CMS</h1>
+<h2>How to use?</h2>
+<h4>1. Download or clone this repo.</br></h4>
+<h4>2. Install dependencies.</br></h4>
+
+```
+composer install
+```
+
+<h4>3. Migrate Database.</br></h4>
+
+```
+php artisan migrate
+```
+
+<h4>4. Setup Environment File.</br></h4>
+<h4>5. Run Project.</br></h4>
+
+```
+php artisan serve
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
